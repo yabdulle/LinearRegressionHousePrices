@@ -1,2 +1,2 @@
 # LinearRegressionHouses
-Building a linear regression model to predict Boston house prices. 
+Building a linear regression model to predict california house prices. 
