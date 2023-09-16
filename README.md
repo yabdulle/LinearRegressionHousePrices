@@ -4,7 +4,6 @@ Welcome to this repository! This project is all about building a linear regressi
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [License](#license)
 
 # Introduction
